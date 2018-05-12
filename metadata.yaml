@@ -1,0 +1,32 @@
+_repo: A-Little-Girl-in-Old-Quebec_23779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23779-h/images/cover_oq.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: Enjoy reading this tale set in the early days of Quebec City, when Samuel
+  Champlain and others were still founding the town that would come to be the jewel
+  of New France.
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Juvenile fiction'
+- !lcsh 'Québec (Québec) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Canada -- Social life and customs -- To 1763 -- Juvenile fiction'
+title: A Little Girl in Old Quebec
+url: http://www.gutenberg.org/ebooks/23779
